@@ -1,0 +1,616 @@
+<!DOCTYPE html>
+<!-- saved from url=(0030)https://rede-imperium.com/cart -->
+<html lang="pt-BR"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+    <meta name="robots" content="index,nofollow">
+    <meta property="twitter:image" content="https://cdn.centralcart.io/stores/7184/theme/3b9177b7-1542-4802-9722-aa203dcd0513.png">
+    <meta property="twitter:card" content="summary">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="default">
+    <meta property="og:type" content="website">
+    <meta property="og:locale" content="pt_BR">
+    <meta property="og:title" content="Carrinho - Imperium">
+    <meta property="og:site_name" content="Imperium">
+    <meta property="og:description" content="Ao comprar aqui, você contribui para manter o servidor ativo e ainda garante benefícios exclusivos para melhorar sua experiência. Invista no que você ama e aproveite as vantagens!">
+    <meta property="og:image" content="https://cdn.centralcart.io/stores/7184/theme/3b9177b7-1542-4802-9722-aa203dcd0513.png">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="627">
+    <meta name="description" content="Ao comprar aqui, você contribui para manter o servidor ativo e ainda garante benefícios exclusivos para melhorar sua experiência. Invista no que você ama e aproveite as vantagens!">
+    <meta name="keywords" content="Imperium, Loja Imperium, Servidor Imperium, Cidade Imperium, Central Cart">
+    <meta name="couponName" content="ABERTURA">
+
+    <link rel="icon" type="image/x-icon" href="https://cdn.centralcart.io/stores/7184/theme/12158326-5665-473d-b5f5-e8f2be18cb6f.png">
+
+    <title>Carrinho - Imperium</title>
+
+    <script src="./Carrinho - Imperium_files/jquery-3.6.4.js.download" integrity="sha256-a9jBBRygX1Bh5lt8GZjXDzyOB+bWve9EiO7tROUtj/E=" crossorigin="anonymous"></script>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com/">
+    <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin="">
+    <link href="./Carrinho - Imperium_files/css2" rel="stylesheet">
+
+    <link rel="stylesheet" href="./Carrinho - Imperium_files/bootstrap.min.css" integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
+
+    <link rel="stylesheet" href="./Carrinho - Imperium_files/centraldraft.css">
+    <link rel="stylesheet" href="./Carrinho - Imperium_files/all.css">
+    <link rel="stylesheet" type="text/css" href="./Carrinho - Imperium_files/toastify.min.css">
+    <link rel="stylesheet" href="./Carrinho - Imperium_files/core.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+
+<body>
+<div class="spot-bg">
+    <div id="particles">
+        <canvas data-generated="false" style="width: 100% !important; height: 100% !important; position: fixed !important; top: 0px !important; left: 0px !important; pointer-events: none;" aria-hidden="true" width="1907" height="1072"></canvas>
+    </div>
+</div>
+<div id="package-modal-container" class="modal fade">
+    <div class="modal-dialog modal-dialog-centered">
+        <div class="modal-content">
+        </div>
+    </div>
+</div>
+
+<header>
+  <nav>
+    <div class="container">
+      <ul>
+        <li>
+          <div class="cc__nav_links">
+            <a class="animate active" href="index.html"><i class="fa-solid fa-house"></i> INÍCIO</a>
+
+             <a class="dc_navlink animate" href="https://discord.gg/dEVQ6kZtw4"><i class="fa-brands fa-discord"></i> DISCORD</a>                                                                       </div>
+
+          <div class="cc__nav_buttons">
+            <a href="index.html" class="cc__header___store_btn">LOJA</a>
+
+            <a href="Carrinho - Imperium.html" class="animate ">
+              <i class="fa-solid fa-cart-shopping"></i>
+              CARRINHO
+            </a>
+          </div>
+        </li>
+      </ul>
+    </div>
+  </nav>
+
+  <div class="cc__header___hero container" style="null">
+    <div class="cc__header___hero__wrapper">
+      <div class="cc__header___hero__widget ">
+        <i class="fa-solid fa-fire-flame-curved"></i>
+                          <button style="background: none; text-align: start;" data-ip="rede-imperium.com" onclick="copyIp(this)">
+            <h1>REDE-IMPERIUM.COM</h1>
+            <p>
+                              <span>
+                  <span class="online-players" data-ip="rede-imperium.com">111 online • Clique para copiar.</span>
+                </span>
+                          </p>
+          </button>
+              </div>
+
+
+      <div class="cc__header___hero__logo">
+        <a href="index.html">
+                      <img src="./Carrinho - Imperium_files/3b9177b7-1542-4802-9722-aa203dcd0513.png" style="width: 164px">
+                  </a>
+      </div>
+
+      <div class="cc__header___hero__widget ">
+
+                  <a href="https://discord.gg/dEVQ6kZtw4">
+                  <h1>ENTRAR NO DISCORD</h1>
+          <p>Participe da comunidade</p>
+        </a>
+
+        <i class="fa-brands fa-discord right"></i>
+
+      </div>
+    </div>
+  </div>
+</header>
+
+  <script>
+  $(document).ready(async () => {
+    const onlinePlayersLabel = $('.online-players');
+    const ip = onlinePlayersLabel.attr('data-ip');
+
+    try {
+      const response = await $.get(`https://mcapi.us/server/status?ip=${ip}`);
+      const playersOnline = response.players.now;
+
+      if (playersOnline === -1) {
+        onlinePlayersLabel.text('O servidor está em manutenção.');
+      } else if (playersOnline === 0) {
+        onlinePlayersLabel.text('Clique para copiar o endereço.');
+      } else {
+        onlinePlayersLabel.text(`${playersOnline} online • Clique para copiar.`);
+      }
+    } catch (error) {
+      onlinePlayersLabel.text('Clique para copiar o endereço.');
+    }
+  });
+</script>
+
+
+  
+<!-- Main content -->
+<div id="store" class="cc__index___grid container">
+    <div class="cc__index___sidebar">
+        <div class="cc__index___sidebar__navigation">
+            <ul>
+                <li class="active">
+                    <a href="index.html">
+                        <i class="fa-solid fa-house"></i>
+                        INÍCIO
+                    </a>
+                </li>
+
+                                                <li class="false">
+                    <a href="VIPs - Imperium.html">
+                        <i class="fa-solid fa-bars"></i>
+                        VIPs                        <i class="fa-solid fa-caret-right"></i>
+                    </a>
+                </li>
+                                                                <li class="false">
+                    <a href="Golds - Imperium.html">
+                        <i class="fa-solid fa-bars"></i>
+                        Golds                        <i class="fa-solid fa-caret-right"></i>
+                    </a>
+                </li>
+                                                                <li>
+                    <button href="/category/rankup-obscure" onclick="openSubcategoryMenu(this)">
+                        <i class="fa-solid fa-bars"></i>
+                        RankUP                        <i class="fa-solid fa-caret-right"></i>
+                    </button>
+
+                    <div class="cc__subcategories___list__wrapper">
+                        <ul class="cc__subcategories___list">
+                                                        <li class="false">
+                                <a href="Passe de Temporada - Imperium.html">
+                                    Passe de Temporada                                </a>
+                            </li>
+                                                        <li class="false">
+                                <a href="Ovos Da Sorte - Imperium.html">
+                                    Ovos Da Sorte                                </a>
+                            </li>
+                                                        <li class="false">
+                                <a href="Luck Blocks - Imperium.html">
+                                    Luck Blocks                                </a>
+                            </li>
+                                                        <li class="false">
+                                <a href="Kits Especiais - Imperium.html">
+                                    Kits Especiais                                </a>
+                            </li>
+                                                        <li class="false">
+                                <a href="Boosters - Imperium.html">
+                                    Boosters                                </a>
+                            </li>
+                                                        <li class="false">
+                                <a href="Minas Privadas - Imperium.html">
+                                    Minas Privadas                                </a>
+                            </li>
+                                                        <li class="false">
+                                <a href="Saqueadoras - Imperium.html">
+                                    Saqueadoras                                </a>
+                            </li>
+                                                        <li class="false">
+                                <a href="Extras - Imperium.html">
+                                    Extras                                </a>
+                            </li>
+                                                    </ul>
+                    </div>
+                </li>
+                                                                <li>
+                    <button href="/category/colecionaveis-9" onclick="openSubcategoryMenu(this)">
+                        <i class="fa-solid fa-bars"></i>
+                        Colecionáveis                        <i class="fa-solid fa-caret-right"></i>
+                    </button>
+
+                    <div class="cc__subcategories___list__wrapper">
+                        <ul class="cc__subcategories___list">
+                                                        <li class="false">
+                                <a href="TAGs - Imperium.html">
+                                    TAGs                                </a>
+                            </li>
+                                                        <li class="false">
+                                <a href="Medalhas - Imperium.html">
+                                    Medalhas                                </a>
+                            </li>
+                                                    </ul>
+                    </div>
+                </li>
+                                                                <li class="false">
+                    <a href="Revogações - Imperium.html">
+                        <i class="fa-solid fa-bars"></i>
+                        Revogações                        <i class="fa-solid fa-caret-right"></i>
+                    </a>
+                </li>
+                                            </ul>
+        </div>
+
+        <div class="cc__index___widgets">
+            
+            
+
+                        <div>
+  <div class="cc__widget___connection">
+    <h1>
+      JUNTE-SE A NÓS
+    </h1>
+
+    <p class="muted">Clique no botão abaixo para jogar.</p>
+
+          <button data-ip="rede-imperium.com" onclick="copyIp(this)">
+        <strong>JOGAR AGORA</strong>
+      </button>
+        </div>
+</div>            
+            
+            
+            
+            
+            
+
+            
+            
+            
+                        <div>
+  <div class="cc__widget___product">
+    
+    <span class="highlight new">DESTAQUE</span>
+
+          <img src="./Carrinho - Imperium_files/cc41d9fc-64bc-4f47-aab5-0a6224932f0b.png" width="165">
+    
+    <h2>GALAXY + 80K Gold ( Passe de Temporada )</h2>
+
+    <div class="price-container">
+      <p class="package-price">
+        <span class="original-price">R$ 80,00</span>
+                <span class="discount-percentage">-70%</span>
+              </p>
+    </div>
+
+    <button onclick="showPackage(`passe`)">
+      <strong>ADQUIRIR</strong>
+    </button>
+  </div>
+
+</div>
+            
+            
+            
+
+            
+            
+                        <div>
+  <div class="cc__widget___donators">
+    <h1>
+      DOADORES DO MÊS
+    </h1>
+
+    <p class="muted">Veja quem mais contribuiu.</p>
+
+    <div class="box">
+              <ul>
+                      <li>
+                              <img src="./Carrinho - Imperium_files/32.png">
+                            <p>Revoltxsz</p>
+                          </li>
+                      <li>
+                              <img src="./Carrinho - Imperium_files/32(1).png">
+                            <p>netozk073</p>
+                          </li>
+                      <li>
+                              <img src="./Carrinho - Imperium_files/32(2).png">
+                            <p>Ricardo</p>
+                          </li>
+                      <li>
+                              <img src="./Carrinho - Imperium_files/32(3).png">
+                            <p>6767z</p>
+                          </li>
+                      <li>
+                              <img src="./Carrinho - Imperium_files/32(4).png">
+                            <p>yLonny</p>
+                          </li>
+                  </ul>
+          </div>
+
+  </div>
+</div>            
+            
+                    </div>
+    </div>
+
+    <div class="cc__index___content" style="overflow: auto;">
+        <div class="cc__index___content__panel">
+            
+<div class="cc__checkout___wrapper">
+  <div class="cc__checkout___header">
+    <h4>Carrinho</h4>
+  </div>
+
+  <div class="cc__checkout___products">
+    <div style="overflow: auto;">
+      <table>
+        <thead>
+          <tr>
+            <th>Produto</th>
+            <!--<th>Opções</th>-->
+            <th>Preço</th>
+            <th>Quantidade</th>
+            <th></th>
+          </tr>
+        </thead>
+        <tbody>
+                      <tr class="cc__checkout___no_products" style="display: table-row">
+              <td colspan="5">
+                <p>
+                  Nenhum produto foi adicionado ao carrinho.
+                </p>
+              </td>
+            </tr>
+                    
+                  </tbody>
+      </table>
+    </div>
+    
+    <div class="cc__checkout___footer">
+      <div class="cc__checkout___separator">
+        <h5>Concluir compra</h5>
+
+        <div class="cc__checkout___coupon_container">
+          <div class="cc__checkout___coupon_form">
+            <input autocomplete="off" class="coupon-input" placeholder="CUPOM" style="text-transform: uppercase;" disabled="" value="ABERTURA">
+            <button id="apply-coupon" class="btn-primary thin red">
+              Remover            </button>
+          </div>
+          <p class="coupon-error">Oops...</p>
+        </div>
+      </div>
+      <div class="cc__checkout___footer_finish">
+        <div>
+          <p>Subtotal: <strong id="subtotal" class="cc__checkout___total_price">R$&nbsp;0,00</strong></p>
+          <p>Descontos: <strong id="discount" class="cc__checkout___total_price ">-R$&nbsp;0,00</strong>
+          <span class="discount-percentage" style="display: inline-block;">70%</span>
+          </p><p class="new_separator"></p>
+          <p>Total: <strong class="cc__checkout___total_price">R$&nbsp;0,00</strong></p>
+        </div>
+        <button class="btn-primary green thin" data-bs-toggle="modal" data-bs-target="#checkout-modal">
+          <i class="fa-solid fa-cart-shopping"></i>
+          Finalizar pedido
+        </button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- Checkout modal -->
+<div class="modal fade cc__checkout___modal" id="checkout-modal" tabindex="-1" aria-labelledby="checkout-modal" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="checkout-modal">Finalizar pedido</h5>
+        <button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Fechar"></button>
+      </div>
+      <div class="modal-body">
+        <div class="cc__checkout___modal_alert_container">
+          <div class="cc__checkout___modal_alert">
+            <div>
+              <h5>Oops...</h5>
+              <p>Ocorreu um erro.</p>
+            </div>
+            <i class="fa-solid fa-circle-exclamation"></i>
+          </div>
+        </div>
+        <form>
+          
+          <div class="cc__checkout___form_field">
+            <label for="email">E-mail</label>
+            <input id="email" name="email" placeholder="seuemail@gmail.com">
+          </div>
+
+
+                      <div class="checkout_variables" id="checkout_variables">
+                              <div class="cc__checkout___form_field">
+                  <label for="client_identifier">Nickname</label>
+        
+                                      <input id="client_identifier">
+                                  </div>
+                          </div>
+          
+          <div class="cc__checkout___form_field">
+            <label for="name">Nome completo</label>
+            <input id="name" name="name" placeholder="Peter Parker">
+          </div>
+
+          
+          <div class="cc__checkout___form_field d-none">
+            <label for="document">CPF</label>
+            <input id="document" name="document" placeholder="123.456.789-09">
+          </div>
+
+          <div class="cc__checkout___form_field">
+            <label>Forma de pagamento</label>
+            <div class="cc__checkout___gateways">
+                              <button type="button" value="PIX" data-require-document="false">
+                  Pix                </button>
+                          </div>
+          </div>
+
+
+          <div class="cc__checkout___form_field checkbox">
+            <input name="terms" type="checkbox" id="terms">
+            <label for="terms">Eu aceito os 
+              <a id="terms-form" data-bs-toggle="modal" data-bs-target="#terms-modal">Termos de Pagamento
+              </a>
+            </label>
+
+          </div>
+        </form>
+      </div>
+      <div class="modal-footer">
+        <button id="checkout" type="button" class="btn-primary green thin">
+          Comprar (R$&nbsp;0,00)
+        </button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- PIX modal -->
+<div class="modal fade cc__checkout___pix_modal" id="pix-modal" tabindex="-1" aria-labelledby="pix-modal" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="pix-modal">Finalize o pagamento:</h5>
+        <button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Fechar"></button>
+      </div>
+      <div class="modal-body">
+        <h3 class="mb-3">Escaneie o QR CODE abaixo:</h3>
+        <img class="mb-2" width="200" height="200" src="data:image/jpeg;base64,placeholder">
+        <h4 class="mb-2">ou</h4>
+        <button class="btn-primary">
+          <span>Clique aqui para copiar.</span>
+          <i class="fa-solid fa-copy"></i>
+        </button>
+      </div>
+      <div class="modal-footer" data-bs-dismiss="modal">
+        <button type="button" class="btn-primary">Pronto!</button>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- PIX modal -->
+
+<!-- Terms modal -->
+<div class="modal fade cc__checkout___terms_modal" id="terms-modal" tabindex="-1" aria-labelledby="terms-modal" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="terms-modal">Leia os termos</h5>
+        <button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Fechar"></button>
+      </div>
+      <div class="modal-body">
+
+        <p>Atenção: confira todos os dados na hora do pagamento.</p>
+<p style="text-align: start;">&nbsp;</p>
+<p style="text-align: start;"><strong>Política de reembolso</strong></p>
+<p style="text-align: start;">&nbsp;</p>
+<p style="text-align: start;"><strong>1. DA DESISTÊNCIA DO DIREITO DE REEMBOLSO</strong></p>
+<p style="text-align: start;">&nbsp;</p>
+<p style="text-align: start;">Os produtos do <strong>IMPERIUM&nbsp;</strong>não são passivos de reembolso. Ao aceitar os termos de uso o consumidor concorda que não se elege para reembolso visto que é explicito nos termos de uso os motivos para tais condutas, pois como se tratando de produto digital e não físico não é possível uma restituição pois no momento da compra o mesmo é ativado de forma automática e sem interação humana, com o adquirente/consumidor usufruindo do produto de maneira instantânea.</p>
+<p style="text-align: start;">&nbsp;</p>
+<p style="text-align: start;"><strong>2. MEDIDAS PARA PREVENÇÃO DE RISCOS NA RELAÇÃO CONSUMIDOR/VENDEDOR</strong></p>
+<p style="text-align: start;">&nbsp;</p>
+<p style="text-align: start;">É disponibilizado de maneira prévia o conteúdo do material e suas vantagens dentro do<strong> IMPERIUM&nbsp;</strong>ao ser contratado, uma vez que dessa forma deixa de fazer sentido que o consumidor desista somente depois de ter acesso a ele, considerando que as suas expectativas já estavam alinhadas com a realidade ao fechar negócio.</p>
+<p style="text-align: start;">&nbsp;</p>
+<p style="text-align: start;"><strong>3. DA ATIVAÇÃO DO PRODUTO E DA NÃO LEGITIMIDADE DE REEMBOLSO</strong></p>
+<p style="text-align: start;">&nbsp;</p>
+<p style="text-align: start;">O produto é ativado de forma automaticamente, após a aprovação da compra, na conta do usuário que o mesmo informou na etapa de compra, uma vez ativado o mesmo não poderá ser reembolsado sem que haja perda para o<strong> IMPERIUM&nbsp;</strong>, pois visto que 100% (cem por cento) do dinheiro que entra na rede é automaticamente voltado a melhora e desenvolvimento da mesma.</p>
+<p style="text-align: start;">&nbsp;</p>
+<p style="text-align: start;"><strong>DEVOLUÇÕES E REEMBOLSOS</strong></p>
+<p style="text-align: start;">&nbsp;</p>
+<p style="text-align: start;">A devolução de um produto e reembolso será regida pela seguinte Política de Cancelamento, Devolução e Reembolso, que foi criada pelo<strong> IMPERIUM</strong>, em consonância com o Código de Defesa do Consumidor (LEI Nº 8.078, DE 11 DE SETEMBRO DE 1990).</p>
+<p style="text-align: start;">&nbsp;</p>
+<p style="text-align: start;">Itens virtuais do<strong> IMPERIUM&nbsp;</strong>não se elegem para passiveis de reembolso, como explicito nos termos que se encontra acima, pois são itens digitais e que uma vez adquirido o usuário já se usufruiu do beneficio, é disponibilizado de maneira prévia o material a ser contratado, uma vez que o consumidor em suma capacidade mental realiza a compra não vai fazer sentido a desistência do mesmo após a obtenção do produto, considerando que suas expectativas já estavam alinhadas com a realidade ao fechar a compra.</p>
+<p style="text-align: start;">A tentativa de uma devolução/reembolso do produto se elege como má-fé do consumidor, pois visto que após adquirir o produto dediquem invocar o direito de arrependimento para a obter a devolução do dinheiro, logo este produto que é de meio físico e não virtual, não sendo possível ser restituído sem que haja um prejuízo para a empresa <strong>IMPERIUM</strong>.</p>
+<p style="text-align: start;">&nbsp;&nbsp;</p>
+<p style="text-align: start;"><strong>4. Arrependimento ou Desistência da Compra</strong></p>
+<p style="text-align: start;">&nbsp;</p>
+<p style="text-align: start;">Nos termos da Política de Devolução do <strong>IMPERIUM</strong>, as devoluções por arrependimento/desistência da compra não serão aceitas, pois a partir da aprovação de compra o produto é ativado automaticamente no nome de usuário fornecido pelo mesmo na etapa de conclusão de pagamento, para o item ser elegível a reembolso o mesmo teria de ser um item passível de devolução e que não apresentasse nenhuma intervenção ou sinal de uso, que como explicado acima não é possível pois é ativado automaticamente os benefícios na conta do consumidor, e como se enquadra como produto digital não é possível a restituição do mesmo caso o item adquirido não tenha atendido às expectativas do consumidor.</p>
+<p style="text-align: start;">&nbsp;</p>
+<p style="text-align: start;"><strong>5. Prazo para arrependimento/desistência da compra</strong></p>
+<p style="text-align: start;">&nbsp;</p>
+<p style="text-align: start;">O prazo para arrependimento/cancelamento da compra só é possível se o produto não estiver sido ativado, contados a partir da data do recebimento do produto/item adquirido (uma vez transcorrido este prazo e o produto ativado, o produto será considerado aceito pelo cliente e o mesmo abre mão da legitimidade de reembolso).</p>
+<p style="text-align: start;">&nbsp;</p>
+<p style="text-align: start;"><strong>Termos de uso e serviço</strong></p>
+<p style="text-align: start;">&nbsp;</p>
+<p style="text-align: start;">Os pagamentos ao servidor <strong>IMPERIUM&nbsp;</strong>são pagamentos pelos itens virtuais contidos na compra. Esta transação é final e não há reembolso sem justa causa perante à Política de reembolso. Se você for banido por violar as regras dos servidores <strong>IMPERIUM</strong>, você não será reembolsado.&nbsp;</p>
+<p style="text-align: start;">As proibições estão sujeitas à total discrição dos administradores do servidor e as regras podem ser alteradas a qualquer momento, com aviso prévio de 30 dias. Não há garantia, se o servidor não estiver mais em operação, os itens virtuais serão perdidos, sem direito a reembolso. As solicitações de reembolso devido a problemas relacionados a atrasos, falhas no jogo ou quaisquer outros problemas estão sujeitos ao critério da equipe de administração do <strong>IMPERIUM</strong>. Todos os itens são virtuais e não têm valor.</p>
+<p style="text-align: start;">Após a finalização da compra em nossa loja, nos reservamos no direito de não fornecer reembolso em nenhuma hipótese, pois o produto é digital (intangível), a menos que haja uma falha por parte de nosso sistema. A ativação do produto é feita automaticamente e os benefícios do produto adquirido são perfeitamente listados em nossa listagem de produtos.</p>
+<p style="text-align: start;">Para receber o reembolso total, os produtos devolvidos devem estar em condições de novo (sem quaisquer defeitos, riscos, sinais de tombo, arranhões, entre outros, que não os deixem impróprios para revenda, etc.), com todas as embalagens, manuais de uso e acessórios originais.&nbsp;</p>
+<p style="text-align: start;">&nbsp;</p>
+<p style="text-align: start;"><strong>POLÍTICA DE PRIVACIDADE</strong></p>
+<p style="text-align: start;">&nbsp;</p>
+<p style="text-align: start;">Esta política cobre como usamos suas informações pessoais. Levamos a sua privacidade a sério e tomaremos todas as medidas para proteger suas informações pessoais. Qualquer informação pessoal recebida será usada apenas para atender seu pedido. Não venderemos ou redistribuiremos suas informações a ninguém.</p>
+<p style="text-align: start;">&nbsp;</p>
+<p style="text-align: start;"><strong>OBSERVAÇÕES FINAIS</strong></p>
+<p style="text-align: start;">&nbsp;</p>
+<p style="text-align: start;">Siga corretamente todas as instruções dos itens acima para que o processo de Cancelamento, Devolução e Reembolso seja simples e rápido. A não observância poderá ocasionar atrasos.</p>
+<p style="text-align: start;">Ao adquirir um pacote e concluir a transação, você concorda que não existirá em hipótese alguma, reembolso/disputa/contestação do pagamento feito. São produtos adquiridos exclusivamente no meio virtual, ou seja, não são retornáveis, sem possibilidade alguma de trocas/sob qualquer circunstância.</p>
+<p style="text-align: start;">Ao adquirir um item em nosso site, você está doando para o servidor. Em reconhecimento disso, o servidor agradece com uma jogabilidade diferenciada.&nbsp;</p>
+<p style="text-align: start;">Para maiores informações, entre em contato conosco por meio de nosso Discord (<a href="https://discord.highmc.net/" rel="noopener noreferrer nofollow">https://dc.rede-imperium.com</a>).</p>      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn-primary" data-bs-toggle="modal" data-bs-target="#checkout-modal">Voltar</button>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- Terms modal -->        </div>
+    </div>
+    <div class="toast-container" id="toast-container"></div>
+</div>
+<!-- Main content -->
+
+<!-- Footer -->
+<style>
+   footer{margin-top:auto}footer .cc__footer___wrapper{margin-top:20px;justify-content:center}.cc__footer___wrapper{padding:0 24px;max-width:1200px;margin:0 auto;display:flex;justify-content:center;gap:20px}.cc__footer___left_element{display:flex;align-items:center;gap:20px}.cc__footer___left_element img{width:70px;height:auto}.cc__footer___left_element p{margin:0;font-size:.9rem;color:#a09fb2;line-height:1.5}.cc__footer___left_element p b{color:#f0e6ff}@media (max-width:768px){.cc__footer___wrapper{justify-content:center}.cc__footer___left_element{flex-direction:column;text-align:center;gap:15px}}
+</style>
+
+<footer>
+   <div class="cc__footer___wrapper">
+      <div class="cc__footer___left_element">
+         <a href="index.html">
+            <img src="./Carrinho - Imperium_files/3b9177b7-1542-4802-9722-aa203dcd0513.png" alt="Logo Imperium">
+         </a>
+         <div>
+            <p><b>Imperium</b> © 2025</p>
+            <p>Não somos afiliados a Mojang Studios.</p>
+         </div>
+      </div>
+   </div>
+</footer><!-- Footer -->
+
+      <script>
+      const allowedParams = [
+        'utm_source', 'utm_medium', 'utm_campaign', 'utm_term', 'utm_content',
+        'gclid', 'fbclid', 'msclkid',
+        'ref', 'campaign', 'source', 'medium', 'adgroup',
+        'creative', 'term', 'placement', 'device', 'channel',
+        'pk_campaign', 'pk_source', 'pk_medium',
+        'hsa_cam', 'hsa_grp', 'hsa_mt', 'hsa_src', 'hsa_ad',
+        'scid', 'ncid', 's_kwcid',
+        'direct', 'src', 'sck',
+        'network', 'keyword',
+        'gad_campaignid', 'gad_source', 'gbraid', 'wbraid', 'ttclid',
+      ];
+
+      const urlParams = new URLSearchParams(window.location.search);
+      const trackingData = {};
+
+      for (const key of allowedParams) {
+        const value = urlParams.get(key);
+        if (value) trackingData[key] = value;
+      }
+
+      if (Object.keys(trackingData).length > 0) {
+        document.cookie = '_cc_trck=' + encodeURIComponent(JSON.stringify(trackingData)) + '; path=/; max-age=' + (30 * 24 * 60 * 60) + '; Secure; SameSite=Lax';
+      }
+      </script>
+      <script defer="" src="./Carrinho - Imperium_files/vcd15cbe7772f49c399c6a5babf22c1241717689176015" integrity="sha512-ZpsOmlRQV6y907TI0dKBHq9Md29nnaEIPlkf84rnaERnq6zvWvPUqr2ft8M1aS28oN72PdrCzSjY4U6VaAw1EQ==" data-cf-beacon="{&quot;version&quot;:&quot;2024.11.0&quot;,&quot;token&quot;:&quot;b7c68cc44c2946c09138a59d62859388&quot;,&quot;server_timing&quot;:{&quot;name&quot;:{&quot;cfCacheStatus&quot;:true,&quot;cfEdge&quot;:true,&quot;cfExtPri&quot;:true,&quot;cfL4&quot;:true,&quot;cfOrigin&quot;:true,&quot;cfSpeedBrain&quot;:true},&quot;location_startswith&quot;:null}}" crossorigin="anonymous"></script>
+
+
+<script src="./Carrinho - Imperium_files/bootstrap.bundle.min.js.download" integrity="sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52nD2" crossorigin="anonymous"></script>
+
+<script type="text/javascript">
+    const dist_url = ''
+</script>
+<script src="./Carrinho - Imperium_files/CentralCart.js.download" type="module"></script>
+<script src="./Carrinho - Imperium_files/scripts.js.download"></script>
+
+<script type="text/javascript" src="./Carrinho - Imperium_files/toastify-js"></script>
+<script src="./Carrinho - Imperium_files/tsparticles.bundle.min.js.download"></script>
+<script src="./Carrinho - Imperium_files/jquery"></script>
+</body></html>
