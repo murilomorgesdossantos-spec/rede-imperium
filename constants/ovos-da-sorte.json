@@ -1,0 +1,35 @@
+[
+  {
+    "id": 398521,
+    "name": "Ovo Da Sorte ( Divino )",
+    "slug": "ovo-da-sorte-(-raro-)",
+    "image": "./ovos-da-sorte/ovo-divino.png",
+    "originalPrice": 75.00,
+    "price": 22.50,
+    "discount": 70,
+    "isNew": true,
+    "description": "<p><span style=\"color: #0041dd;\"><strong>INFORMAÇÕES:</strong></span><br>Tenha chance de receber um Alien de categoria Divina para lhe fornecer bônus ao ser equipado e alimentado.</p>"
+  },
+  {
+    "id": 398522,
+    "name": "Ovo Da Sorte ( Raro )",
+    "slug": "1RvlYwTsqz",
+    "image": "./ovos-da-sorte/ovo-raro.png",
+    "originalPrice": 31.00,
+    "price": 9.30,
+    "discount": 70,
+    "isNew": true,
+    "description": "<p><span style=\"color: #0041dd;\"><strong>INFORMAÇÕES:</strong></span><br>Tenha chance de receber um Alien de categoria rara para lhe fornecer bônus ao ser equipado e alimentado.</p>"
+  },
+  {
+    "id": 398523,
+    "name": "Ovo Da Sorte ( Comum )",
+    "slug": "ovo-da-sorte-(-comum-)",
+    "image": "./ovos-da-sorte/ovo-comum.png",
+    "originalPrice": 20.00,
+    "price": 6.00,
+    "discount": 70,
+    "isNew": true,
+    "description": "<p><span style=\"color: #0041dd;\"><strong>INFORMAÇÕES:</strong></span><br>Tenha chance de receber um Alien de categoria comum para lhe fornecer bônus ao ser equipado e alimentado.</p>"
+  }
+]

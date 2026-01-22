@@ -1,0 +1,68 @@
+[
+  {
+    "id": 182644,
+    "name": "Tóxico ( Eterna )",
+    "slug": "toxico",
+    "image": "./medalhas/toxico.png",
+    "originalPrice": 10.00,
+    "price": 3.00,
+    "discount": 70,
+    "isNew": false,
+    "description": "<p><strong><span style=\"color: rgb(0, 170, 0)\">INFORMAÇÕES:</span></strong></p><p>Ao adquirir a medalha&nbsp;<strong><span style=\"color: rgb(0, 170, 0)\">Tóxico</span></strong>, você passará a usufruir deste benefício de forma permanente, <strong>disponível em todos os servidores</strong>.<br><br><strong><span style=\"color: rgb(0, 170, 0)\">UTILIZAÇÃO:</span></strong><br><strong><span style=\"color: rgb(74, 74, 74)\">•</span></strong><span style=\"color: rgb(255, 255, 255)\">&nbsp;</span>Acesse todas as suas medalhas utilizando o comando \"<strong><span style=\"color: rgb(0, 170, 0)\">/medalhas</span></strong>\".<br><strong><span style=\"color: rgb(74, 74, 74)\">•</span></strong><span style=\"color: rgb(255, 255, 255)\">&nbsp;</span>Para selecionar esta medalha específica, use o comando \"<strong><span style=\"color: rgb(0, 170, 0)\">/medalha tóxico</span></strong>\" ou clique nela na lista exibida pelo comando \"/medalhas\".<br><br><strong><span style=\"color: rgb(0, 170, 9)\">"
+  },
+  {
+    "id": 182645,
+    "name": "Coração ( Eterna )",
+    "slug": "coracao",
+    "image": "./medalhas/coracao.png",
+    "originalPrice": 10.00,
+    "price": 3.00,
+    "discount": 70,
+    "isNew": false,
+    "description": "<p><strong><span style=\"color: #ff5555\">INFORMAÇÕES:</span></strong></p><p>Ao adquirir a medalha&nbsp;<strong><span style=\"color: #ff5555\">Coração</span></strong>, você passará a usufruir deste benefício de forma permanente, <strong>disponível em todos os servidores</strong>.<br><br><strong><span style=\"color: #ff5555\">UTILIZAÇÃO:</span></strong><br><strong><span style=\"color: rgb(74, 74, 74)\">•</span></strong><span style=\"color: rgb(255, 255, 255)\">&nbsp;</span>Acesse todas as suas medalhas utilizando o comando \"<strong><span style=\"color: #ff5555\">/medalhas</span></strong>\".<br><strong><span style=\"color: rgb(74, 74, 74)\">•</span></strong><span style=\"color: rgb(255, 255, 255)\">&nbsp;</span>Para selecionar esta medalha específica, use o comando \"<strong><span style=\"color: #ff5555\">/medalha coração</span></strong>\" ou clique nela na lista exibida pelo comando \"/medalhas\".<br><br><strong><span style=\"color: #ff5555\">"
+  },
+  {
+    "id": 182646,
+    "name": "Sortudo ( Eterna )",
+    "slug": "sortudo",
+    "image": "./medalhas/sortudo.png",
+    "originalPrice": 10.00,
+    "price": 3.00,
+    "discount": 70,
+    "isNew": false,
+    "description": "<p><strong><span style=\"color: rgb(85, 255, 85)\">INFORMAÇÕES:</span></strong></p><p>Ao adquirir a medalha&nbsp;<strong><span style=\"color: rgb(85, 225, 85)\">Sortudo</span></strong>, você passará a usufruir deste benefício de forma permanente, <strong>disponível em todos os servidores</strong>.<br><br><strong><span style=\"color: rgb(85, 255, 85)\">UTILIZAÇÃO:</span></strong><br><strong><span style=\"color: rgb(74, 74, 74)\">•</span></strong><span style=\"color: rgb(255, 255, 255)\">&nbsp;</span>Acesse todas as suas medalhas utilizando o comando \"<strong><span style=\"color: rgb(85, 255, 85)\">/medalhas</span></strong>\".<br><strong><span style=\"color: rgb(74, 74, 74)\">•</span></strong><span style=\"color: rgb(255, 255, 255)\">&nbsp;</span>Para selecionar esta medalha específica, use o comando \"<strong><span style=\"color: rgb(85, 255, 85)\">/medalha sortudo</span></strong>\" ou clique nela na lista exibida pelo comando \"/medalhas\".<br><br><strong><span style=\"color: rgb(85, 255, 85)\">"
+  },
+  {
+    "id": 182648,
+    "name": "Estrelado ( Eterna )",
+    "slug": "estrelado",
+    "image": "./medalhas/estrelado.png",
+    "originalPrice": 10.00,
+    "price": 3.00,
+    "discount": 70,
+    "isNew": false,
+    "description": "<p><strong><span style=\"color: rgb(255, 255, 85)\">INFORMAÇÕES:</span></strong></p><p>Ao adquirir a medalha&nbsp;<strong><span style=\"color: rgb(255, 255, 85)\">Estrelado</span></strong>, você passará a usufruir deste benefício de forma permanente, <strong>disponível em todos os servidores</strong>.<br><br><strong><span style=\"color: rgb(255, 255, 85)\">UTILIZAÇÃO:</span></strong><br><strong><span style=\"color: rgb(74, 74, 74)\">•</span></strong><span style=\"color: rgb(255, 255, 255)\">&nbsp;</span>Acesse todas as suas medalhas utilizando o comando \"<strong><span style=\"color: rgb(255, 255, 70)\">/medalhas</span></strong>\".<br><strong><span style=\"color: rgb(74, 74, 74)\">•</span></strong><span style=\"color: rgb(255, 255, 255)\">&nbsp;</span>Para selecionar esta medalha específica, use o comando \"<strong><span style=\"color: rgb(255, 255, 85)\">/medalha estrelado</span></strong>\" ou clique nela na lista exibida pelo comando \"/medalhas\".<br><br><strong><span style=\"color: rgb(255, 255, 85)\">"
+  },
+  {
+    "id": 182650,
+    "name": "Florido ( Eterna )",
+    "slug": "florido",
+    "image": "./medalhas/florido.png",
+    "originalPrice": 10.00,
+    "price": 3.00,
+    "discount": 70,
+    "isNew": false,
+    "description": "<p><strong><span style=\"color: rgb(255, 85, 255)\">INFORMAÇÕES:</span></strong></p><p>Ao adquirir a medalha&nbsp;<strong><span style=\"color: rgb(255, 85, 255)\">Florido</span></strong>, você passará a usufruir deste benefício de forma permanente, <strong>disponível em todos os servidores</strong>.<br><br><strong><span style=\"color: rgb(255, 85, 255)\">UTILIZAÇÃO:</span></strong><br><strong><span style=\"color: rgb(74, 74, 74)\">•</span></strong><span style=\"color: rgb(255, 255, 255)\">&nbsp;</span>Acesse todas as suas medalhas utilizando o comando \"<strong><span style=\"color: rgb(255, 85, 255)\">/medalhas</span></strong>\".<br><strong><span style=\"color: rgb(74, 74, 74)\">•</span></strong><span style=\"color: rgb(255, 255, 255)\">&nbsp;</span>Para selecionar esta medalha específica, use o comando \"<strong><span style=\"color: rgb(255, 85, 255)\">/medalha florido</span></strong>\" ou clique nela na lista exibida pelo comando \"/medalhas\".<br><br><strong><span style=\"color: rgb(255, 85, 255)\">"
+  },
+  {
+    "id": 182651,
+    "name": "Solar ( Eterna )",
+    "slug": "solar",
+    "image": "./medalhas/solar.png",
+    "originalPrice": 10.00,
+    "price": 3.00,
+    "discount": 70,
+    "isNew": false,
+    "description": "<p><strong><span style=\"color: rgb(255, 170, 0)\">INFORMAÇÕES:</span></strong></p><p>Ao adquirir a medalha&nbsp;<strong><span style=\"color: rgb(255, 170, 0)\">Solar</span></strong>, você passará a usufruir deste benefício de forma permanente, <strong>disponível em todos os servidores</strong>.<br><br><strong><span style=\"color: rgb(255, 170, 0)\">UTILIZAÇÃO:</span></strong><br><strong><span style=\"color: rgb(74, 74, 74)\">•</span></strong><span style=\"color: rgb(255, 255, 255)\">&nbsp;</span>Acesse todas as suas medalhas utilizando o comando \"<strong><span style=\"color: rgb(255, 170, 0)\">/medalhas</span></strong>\".<br><strong><span style=\"color: rgb(74, 74, 74)\">•</span></strong><span style=\"color: rgb(255, 255, 255)\">&nbsp;</span>Para selecionar esta medalha específica, use o comando \"<strong><span style=\"color: rgb(255, 170, 0)\">/medalha solar</span></strong>\" ou clique nela na lista exibida pelo comando \"/medalhas\".<br><br><strong><span style=\"color: rgb(255, 170, 0)\">"
+  }
+]

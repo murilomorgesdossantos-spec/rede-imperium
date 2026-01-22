@@ -1,0 +1,46 @@
+[
+  {
+    "id": 318682,
+    "name": "Exterminadora ( HitKill )",
+    "slug": "(novo)-exterminadora-(-hitkill-)",
+    "image": "./extras/1c76ac4f-7b5c-4055-bb62-51edc3602dc9.png",
+    "originalPrice": 135.00,
+    "price": 40.50,
+    "discount": 70,
+    "isNew": true,
+    "description": "<p><span style=\"color: #0041dd;\"><strong>INFORMAÇÕES:</strong></span><br>Elimite qualquer boss com essa incrível matadora hitkill e receba as recompensas de forma imediata.</p>"
+  },
+  {
+    "id": 318683,
+    "name": "Bateria Infinita",
+    "slug": "(novo)-bateria-infinita",
+    "image": "./extras/2fd019ea-113a-46fe-9765-26e28eac8e00.png",
+    "originalPrice": 130.00,
+    "price": 39.00,
+    "discount": 70,
+    "isNew": true,
+    "description": "<p><span style=\"color: #0041dd;\"><strong>INFORMAÇÕES:</strong></span><br>Recarrega seus robôs uma única vez com essa bateria infinita.</p>"
+  },
+  {
+    "id": 318686,
+    "name": "Traje do Thor",
+    "slug": "(novo)-traje-do-thor",
+    "image": "./extras/81e1d895-8866-4b3e-a83b-eb73292770e7.png",
+    "originalPrice": 105.00,
+    "price": 31.50,
+    "discount": 70,
+    "isNew": true,
+    "description": "<p><span style=\"color: #0041dd;\"><strong>INFORMAÇÕES:</strong></span><br>Ao ativar estre traje você irá multiplicar seus coins e astros da mineração&nbsp;</p>"
+  },
+  {
+    "id": 318690,
+    "name": "Limpadora de Terrenos",
+    "slug": "(novo)-limpadora-de-terrenos",
+    "image": "./extras/d7481e58-6fc9-41a6-8b4f-44910f350424.png",
+    "originalPrice": 12.00,
+    "price": 3.60,
+    "discount": 70,
+    "isNew": true,
+    "description": "<p><span style=\"color: #0041dd;\"><strong>INFORMAÇÕES:</strong></span><br>Limpe seu terreno de forma automática com essa incrível limpadora de terrenos.</p>"
+  }
+]

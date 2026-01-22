@@ -1,0 +1,24 @@
+[
+  {
+    "id": 182641,
+    "name": "UNBAN",
+    "slug": "unban",
+    "image": "./revogacoes/4548103d-4f93-4344-9e26-18ae2d786c03.png",
+    "originalPrice": 35.00,
+    "price": 35.00,
+    "discount": 0,
+    "isNew": false,
+    "description": "<p><strong><span style=\"color: rgb(237, 90, 226)\">INFORMAÇÕES:</span></strong></p><p>Ao adquirir este produto, seu nickname será desbanido em todo o servidor, permitindo que você jogue sem restrições novamente.</p><p><br><strong><span style=\"color: rgb(255, 0, 0)\">ATENÇÃO:</span></strong></p><p>É permitido adquirir apenas <strong><span style=\"color: rgb(255, 0, 0)\">um único unban por conta</span></strong>. <br><strong><span style=\"color: rgb(74, 74, 74)\">•</span></strong><span style=\"color: rgb(255, 255, 255)\">&nbsp;R</span>ecomendamos que tente realizar sua revisão em nosso <a rel=\"noopener noreferrer nofollow\" href=\"https://dc.rede-imperium.com\"><strong><span style=\"color: rgb(255, 0, 0)\">Discord</span></strong></a>.</p>"
+  },
+  {
+    "id": 182643,
+    "name": "UNMUTE",
+    "slug": "unmute",
+    "image": "./revogacoes/dbdca628-65ef-4ce2-a336-8e1704c3fab2.png",
+    "originalPrice": 20.00,
+    "price": 20.00,
+    "discount": 0,
+    "isNew": false,
+    "description": "<p><strong><span style=\"color: rgb(237, 90, 226)\">INFORMAÇÕES:</span></strong></p><p style=\"text-align: start\">Ao adquirir este produto, seu nickname será desmutado em todo o servidor, possibilitando sua participação nas conversas e a interação com a comunidade de forma plena e sem restrições.</p>"
+  }
+]

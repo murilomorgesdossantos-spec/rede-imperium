@@ -1,0 +1,101 @@
+[
+  {
+    "id": 409088,
+    "name": "Ferias ( Eterna )",
+    "slug": "ferias-(-eterna-)",
+    "image": "./tags/ferias.png",
+    "originalPrice": 3.35,
+    "price": 1.00,
+    "discount": 70,
+    "isNew": true,
+    "description": "<p><span style=\"color: #2dc26b;\"><strong>INFORMAÇÕES:</strong></span></p><p>Ao adquirir a tag&nbsp;<span style=\"color: #2dc26b;\"><strong>FERIAS</strong></span>, você passará a usufruir deste benefício de forma permanente, <span style=\"color: #2dc26b;\"><strong>disponível em todos os servidores</strong></span>.<br><br><span style=\"color: #2dc26b;\"><strong>UTILIZAÇÃO:</strong></span><br><strong><span style=\"color: #4a4a4a;\">•</span></strong><span style=\"color: #ffffff;\">&nbsp;</span>Utilize o comando \"<span style=\"color: #2dc26b;\"><strong>/tags</strong></span>\" para consultar todas as tags da sua conta.<br><strong><span style=\"color: #4a4a4a;\">•</span></strong><span style=\"color: #ffffff;\">&nbsp;</span>Para alterar para esta tag específica, utilize o comando \"<span style=\"color: #2dc26b;\"><strong>/tag ferias</strong></span>\" ou clique sobre ela na lista exibida pelo comando \"/tags\".<br><br><span style=\"color: #2dc26b;\"><strong>PRÉ-VISUALIZAÇÃO:</strong></span></p><p><img src=\"https://i.imgur.com/uWROHMl.png\" width=\"144\" height=\"18\"></p>"
+  },
+  {
+    "id": 193325,
+    "name": "Slayer ( Eterna )",
+    "slug": "(novo!)-slayer",
+    "image": "./tags/slayer.png",
+    "originalPrice": 25.00,
+    "price": 7.50,
+    "discount": 70,
+    "isNew": true,
+    "description": "<p><span style=\"color: #242323;\"><strong>INFORMAÇÕES:</strong></span></p><p>Ao adquirir a tag <span style=\"color: #242323;\"><strong>SLAYER</strong></span>, você passará a usufruir deste benefício de forma permanente, <strong>disponível em todos os servidores</strong>.<br><br><span style=\"color: #242323;\"><strong>UTILIZAÇÃO:</strong></span><br><span style=\"color: #4a4a4a;\"><strong>•</strong></span><span style=\"color: #ffffff;\">&nbsp;</span>Utilize o comando \"<span style=\"color: #242323;\"><strong>/tags</strong></span>\" para consultar todas as tags da sua conta.<br><span style=\"color: #4a4a4a;\"><strong>•</strong></span><span style=\"color: #ffffff;\">&nbsp;</span>Para alterar para esta tag específica, utilize o comando \"<span style=\"color: #242323;\"><strong>/tag slayer</strong></span>\" ou clique sobre ela na lista exibida pelo comando \"/tags\".<br><br><span style=\"color: #242323;\"><strong>PRÉ-VISUALIZAÇÃO:</strong></span></p>"
+  },
+  {
+    "id": 193323,
+    "name": "Mythical ( Eterna )",
+    "slug": "(novo!)-mythical",
+    "image": "./tags/mythical.png",
+    "originalPrice": 25.00,
+    "price": 7.50,
+    "discount": 70,
+    "isNew": true,
+    "description": "<p><span style=\"color: #f10909;\"><strong>INFORMAÇÕES:</strong></span></p><p>Ao adquirir a tag <span style=\"color: #f10909;\"><strong>MYTHICAL</strong></span>, você passará a usufruir deste benefício de forma permanente, <strong>disponível em todos os servidores</strong>.<br><br><span style=\"color: #f10909;\"><strong>UTILIZAÇÃO:</strong></span><br><span style=\"color: #4a4a4a;\"><strong>•</strong></span><span style=\"color: #ffffff;\">&nbsp;</span>Utilize o comando \"<span style=\"color: #f10909;\"><strong>/tags</strong></span>\" para consultar todas as tags da sua conta.<br><span style=\"color: #4a4a4a;\"><strong>•</strong></span><span style=\"color: #ffffff;\">&nbsp;</span>Para alterar para esta tag específica, utilize o comando \"<span style=\"color: #f10909;\"><strong>/tag mythical</strong></span>\" ou clique sobre ela na lista exibida pelo comando \"/tags\".<br><br><span style=\"color: #f10909;\"><strong>PRÉ-VISUALIZAÇÃO:</strong></span></p>"
+  },
+  {
+    "id": 182615,
+    "name": "Warrior ( Eterna )",
+    "slug": "warrior",
+    "image": "./tags/warrior.png",
+    "originalPrice": 25.00,
+    "price": 7.50,
+    "discount": 70,
+    "isNew": false,
+    "description": "<p><strong>INFORMAÇÕES:</strong></p><p>Ao adquirir a tag <strong>WARRIOR</strong>, você passará a usufruir deste benefício de forma permanente, <strong>disponível em todos os servidores</strong>.<br><br><strong>UTILIZAÇÃO:</strong><br><strong><span style=\"color: #4a4a4a;\">•</span></strong><span style=\"color: #ffffff;\">&nbsp;</span>Utilize o comando \"<strong>/tags</strong>\" para consultar todas as tags da sua conta.<br><strong><span style=\"color: #4a4a4a;\">•</span></strong><span style=\"color: #ffffff;\">&nbsp;</span>Para alterar para esta tag específica, utilize o comando \"<strong>/tag warrior</strong>\" ou clique sobre ela na lista exibida pelo comando \"/tags\".<br><br><strong>PRÉ-VISUALIZAÇÃO:</strong></p><p><img src=\"https://i.imgur.com/TI3IhzH.png\"></p>"
+  },
+  {
+    "id": 182617,
+    "name": "Hero ( Eterna )",
+    "slug": "hero",
+    "image": "./tags2/hero.png",
+    "originalPrice": 20.00,
+    "price": 6.00,
+    "discount": 70,
+    "isNew": false,
+    "description": "<p><strong><span style=\"color: #0000aa;\">INFORMAÇÕES:</span></strong></p><p>Ao adquirir a tag <strong><span style=\"color: #0100aa;\">HERO</span></strong>, você passará a usufruir deste benefício de forma permanente, <strong>disponível em todos os servidores</strong>.<br><br><strong><span style=\"color: #0202aa;\">UTILIZAÇÃO:</span></strong><br><strong><span style=\"color: #4a4a4a;\">•</span></strong><span style=\"color: #ffffff;\">&nbsp;</span>Utilize o comando \"<strong><span style=\"color: #0200aa;\">/tags</span></strong>\" para consultar todas as tags da sua conta.<br><strong><span style=\"color: #4a4a4a;\">•</span></strong><span style=\"color: #ffffff;\">&nbsp;</span>Para alterar para esta tag específica, utilize o comando \"<strong><span style=\"color: #0200aa;\">/tag hero</span></strong>\" ou clique sobre ela na lista exibida pelo comando \"/tags\".<br><br><strong><span style=\"color: #0200aa;\">PRÉ-VISUALIZAÇÃO:</span></strong></p><p><img src=\"https://i.imgur.com/hI4j163.png\"></p>"
+  },
+  {
+    "id": 182621,
+    "name": "King ( Eterna )",
+    "slug": "king",
+    "image": "./tags2/king.png",
+    "originalPrice": 20.00,
+    "price": 6.00,
+    "discount": 70,
+    "isNew": false,
+    "description": "<p><strong><span style=\"color: #ffff55;\">INFORMAÇÕES:</span></strong></p><p>Ao adquirir a tag <strong><span style=\"color: #ffff55;\">KING</span></strong>, você passará a usufruir deste benefício de forma permanente, <strong>disponível em todos os servidores</strong>.<br><span style=\"color: #55ff55;\"><br></span><strong><span style=\"color: #ffff55;\">UTILIZAÇÃO:</span></strong><br><strong><span style=\"color: #4a4a4a;\">•</span></strong><span style=\"color: #ffffff;\">&nbsp;</span>Utilize o comando \"<strong><span style=\"color: #ffff55;\">/tags</span></strong>\" para consultar todas as tags da sua conta.<br><strong><span style=\"color: #4a4a4a;\">•</span></strong><span style=\"color: #ffffff;\">&nbsp;</span>Para alterar para esta tag específica, utilize o comando \"<strong><span style=\"color: #ffff55;\">/tag king</span></strong>\" ou clique sobre ela na lista exibida pelo comando \"/tags\".<br><br><strong><span style=\"color: #ffff55;\">PRÉ-VISUALIZAÇÃO:</span></strong></p><p><img src=\"https://i.imgur.com/ZgCeBIp.png\"></p>"
+  },
+  {
+    "id": 182624,
+    "name": "Pro ( Eterna )",
+    "slug": "pro",
+    "image": "./tags2/pro.png",
+    "originalPrice": 20.00,
+    "price": 6.00,
+    "discount": 70,
+    "isNew": false,
+    "description": "<p><strong><span style=\"color: #ffaa00;\">INFORMAÇÕES:</span></strong></p><p>Ao adquirir a tag <strong><span style=\"color: #ffaa05;\">PRO</span></strong>, você passará a usufruir deste benefício de forma permanente, <strong>disponível em todos os servidores</strong>.<br><span style=\"color: #55ff55;\"><br></span><strong><span style=\"color: #f7aa00;\">UTILIZAÇÃO:</span></strong><br><strong><span style=\"color: #4a4a4a;\">•</span></strong><span style=\"color: #ffffff;\">&nbsp;</span>Utilize o comando \"<strong><span style=\"color: #ffaa00;\">/tags</span></strong>\" para consultar todas as tags da sua conta.<br><strong><span style=\"color: #4a4a4a;\">•</span></strong><span style=\"color: #ffffff;\">&nbsp;</span>Para alterar para esta tag específica, utilize o comando \"<strong><span style=\"color: #ffaa00;\">/tag pro</span></strong>\" ou clique sobre ela na lista exibida pelo comando \"/tags\".<br><br><strong><span style=\"color: #ffaa00;\">PRÉ-VISUALIZAÇÃO:</span></strong></p><p><img src=\"https://i.imgur.com/eSRhtB4.png\"></p>"
+  },
+  {
+    "id": 182616,
+    "name": "Lord ( Eterna )",
+    "slug": "lord",
+    "image": "./tags2/lord.png",
+    "originalPrice": 20.00,
+    "price": 6.00,
+    "discount": 70,
+    "isNew": false,
+    "description": "<p><strong><span style=\"color: #55ff55;\">INFORMAÇÕES:</span></strong></p><p>Ao adquirir a tag <strong><span style=\"color: #55ff55;\">LORD</span></strong>, você passará a usufruir deste benefício de forma permanente, <strong>disponível em todos os servidores</strong>.<br><span style=\"color: #55ff55;\"><br></span><strong><span style=\"color: #55ff55;\">UTILIZAÇÃO:</span></strong><br><strong><span style=\"color: #4a4a4a;\">•</span></strong><span style=\"color: #ffffff;\">&nbsp;</span>Utilize o comando \"<strong><span style=\"color: #55ff55;\">/tags</span></strong>\" para consultar todas as tags da sua conta.<br><strong><span style=\"color: #4a4a4a;\">•</span></strong><span style=\"color: #ffffff;\">&nbsp;</span>Para alterar para esta tag específica, utilize o comando \"<strong><span style=\"color: #55ff55;\">/tag lord</span></strong>\" ou clique sobre ela na lista exibida pelo comando \"/tags\".<br><br><strong><span style=\"color: #55ff55;\">PRÉ-VISUALIZAÇÃO:</span></strong></p><p><img src=\"https://i.imgur.com/aXXc5Cy.png\"></p>"
+  },
+  {
+    "id": 182627,
+    "name": "Gang ( Eterna )",
+    "slug": "gang",
+    "image": "./tags2/gang.png",
+    "originalPrice": 20.00,
+    "price": 6.00,
+    "discount": 70,
+    "isNew": false,
+    "description": "<p><strong><span style=\"color: #5555ff;\">INFORMAÇÕES:</span></strong></p><p>Ao adquirir a tag <strong><span style=\"color: #5555ff;\">GANG</span></strong>, você passará a usufruir deste benefício de forma permanente, <strong>disponível em todos os servidores</strong>.<br><span style=\"color: #55ff55;\"><br></span><strong><span style=\"color: #3255ff;\">UTILIZAÇÃO:</span></strong><br><strong><span style=\"color: #4a4a4a;\">•</span></strong><span style=\"color: #ffffff;\">&nbsp;</span>Utilize o comando \"<strong><span style=\"color: #3255ff;\">/tags</span></strong>\" para consultar todas as tags da sua conta.<br><strong><span style=\"color: #4a4a4a;\">•</span></strong><span style=\"color: #ffffff;\">&nbsp;</span>Para alterar para esta tag específica, utilize o comando \"<strong><span style=\"color: #3255ff;\">/tag gang</span></strong>\" ou clique sobre ela na lista exibida pelo comando \"/tags\".<br><br><strong><span style=\"color: #3255ff;\">PRÉ-VISUALIZAÇÃO:</span></strong></p><p><img src=\"https://i.imgur.com/YruKgb8.png\"></p>"
+  }
+]

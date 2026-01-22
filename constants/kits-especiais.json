@@ -1,0 +1,57 @@
+[
+  {
+    "id": 318664,
+    "name": "Kit Fazendeiro",
+    "slug": "(novo)-kit-fazendeiro",
+    "image": "./kits-especiais/kit.png",
+    "originalPrice": 190.00,
+    "price": 57.00,
+    "discount": 70,
+    "isNew": true,
+    "description": "<p><span style=\"color: #0041dd;\"><strong>INFORMAÇÕES:</strong></span><br>Com este kit você terá 1x caixa skin machado da fazenda, 1x robô meteoritos e 1x amplificador de herbalismo.</p>"
+  },
+  {
+    "id": 318658,
+    "name": "Kit Robôs",
+    "slug": "(novo)-kit-robos",
+    "image": "./kits-especiais/kit.png",
+    "originalPrice": 93.00,
+    "price": 27.90,
+    "discount": 70,
+    "isNew": true,
+    "description": "<p><span style=\"color: #0041dd;\"><strong>INFORMAÇÕES:</strong></span><br>Com este kit você terá robô de astros, robô de limite, robô de meteoritos e 6x baterias para abestece-los.</p>"
+  },
+  {
+    "id": 318667,
+    "name": "Kit Chaveiro",
+    "slug": "(novo)-kit-chaveiro",
+    "image": "./kits-especiais/kit.png",
+    "originalPrice": 72.00,
+    "price": 21.60,
+    "discount": 70,
+    "isNew": true,
+    "description": "<p><span style=\"color: #0041dd;\"><strong>INFORMAÇÕES:</strong></span><br>Com este kit você terá 64x chaves básicas, 32x chaves avançadas, 16x chaves raras, 6x chaves supremas e 11x chaves spaces.</p>"
+  },
+  {
+    "id": 318670,
+    "name": "Kit Bosses",
+    "slug": "(novo)-kit-bosses",
+    "image": "./kits-especiais/kit.png",
+    "originalPrice": 55.00,
+    "price": 16.50,
+    "discount": 70,
+    "isNew": true,
+    "description": "<p><span style=\"color: #0041dd;\"><strong>INFORMAÇÕES:</strong></span><br>Com este kit você terá 64x boss creeper, 32x boss magma, 16x boss esqueleto, 8x boss bruxa.</p>"
+  },
+  {
+    "id": 318671,
+    "name": "Kit Pesca",
+    "slug": "(novo)-kit-pesca",
+    "image": "./kits-especiais/kit.png",
+    "originalPrice": 45.00,
+    "price": 13.50,
+    "discount": 70,
+    "isNew": true,
+    "description": "<p><span style=\"color: #0041dd;\"><strong>INFORMAÇÕES:</strong></span><br>Com este kit você terá 2x boosters de pesca.</p>"
+  }
+]

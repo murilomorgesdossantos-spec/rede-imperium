@@ -1,0 +1,24 @@
+[
+  {
+    "id": 353046,
+    "name": "LuckBlock Skin Plantações",
+    "slug": "(novo)-luckblock-skin-fazenda",
+    "image": "./luck-blocks/luckblock-plantacoes.png",
+    "originalPrice": 50.00,
+    "price": 15.00,
+    "discount": 70,
+    "isNew": true,
+    "description": "<p><span style=\"color: #0041dd;\"><strong>INFORMAÇÕES:</strong></span><br>Tenha chance de receber skins para seu machado das plantações e melhorar significativamente seus ganhos!</p>"
+  },
+  {
+    "id": 318687,
+    "name": "LuckBlock Skin Mineração",
+    "slug": "(novo)-luckblock-skin",
+    "image": "./luck-blocks/luckblock-mineracao.png",
+    "originalPrice": 50.00,
+    "price": 15.00,
+    "discount": 70,
+    "isNew": true,
+    "description": "<p><span style=\"color: #0041dd;\"><strong>INFORMAÇÕES:</strong></span><br>Tenha chance de receber skins para sua picareta da mineração e melhorar significativamente seus ganhos!</p>"
+  }
+]

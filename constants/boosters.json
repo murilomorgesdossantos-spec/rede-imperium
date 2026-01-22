@@ -1,0 +1,68 @@
+[
+  {
+    "id": 354379,
+    "name": "Amplificador de Herbalismo ( XP )",
+    "slug": "(novo)-amplificador-de-herbalismo-(-xp-)",
+    "image": "./boosters/booster.png",
+    "originalPrice": 75.00,
+    "price": 22.50,
+    "discount": 70,
+    "isNew": true,
+    "description": "<p><span style=\"color: #0041dd;\"><strong>INFORMAÇÕES:</strong></span><br>Receba 2x mais XP para a habilidade herbalismo ao colher em sua fazenda.</p>"
+  },
+  {
+    "id": 318678,
+    "name": "Amplificador de Geradores",
+    "slug": "(novo)-booster-de-spawners",
+    "image": "./boosters/booster.png",
+    "originalPrice": 40.00,
+    "price": 12.00,
+    "discount": 70,
+    "isNew": true,
+    "description": "<p><span style=\"color: #0041dd;\"><strong>INFORMAÇÕES:</strong></span><br>Receba 65% a mais ao vender os drops dos seus geradores por 25 minutos.</p>"
+  },
+  {
+    "id": 318676,
+    "name": "Amplificador de Robôs ( Drops )",
+    "slug": "(novo)-booster-de-robos",
+    "image": "./boosters/booster.png",
+    "originalPrice": 35.00,
+    "price": 10.50,
+    "discount": 70,
+    "isNew": true,
+    "description": "<p><span style=\"color: #0041dd;\"><strong>INFORMAÇÕES:</strong></span><br>Receba 65% a mais em seus drops dos robôs por 25 minutos.</p>"
+  },
+  {
+    "id": 318677,
+    "name": "Amplificador de Mina ( Coins )",
+    "slug": "(novo)-booster-de-mina",
+    "image": "./boosters/booster.png",
+    "originalPrice": 32.00,
+    "price": 9.60,
+    "discount": 70,
+    "isNew": true,
+    "description": "<p><span style=\"color: #0041dd;\"><strong>INFORMAÇÕES:</strong></span><br>Receba 1.5x mais coins ao minerar por 30 minutos.</p>"
+  },
+  {
+    "id": 354377,
+    "name": "Amplificador de Mina ( Astros )",
+    "slug": "(novo)-amplificador-de-mina-(-astros-)",
+    "image": "./boosters/booster.png",
+    "originalPrice": 32.00,
+    "price": 9.60,
+    "discount": 70,
+    "isNew": true,
+    "description": "<p><span style=\"color: #0041dd;\"><strong>INFORMAÇÕES:</strong></span><br>Receba 1.5x mais astros ao minerar por 30 minutos.</p>"
+  },
+  {
+    "id": 398516,
+    "name": "Amplificador de Plantações ( Orions e Meteoritos )",
+    "slug": "(novo)-amplificador-de-plantacoes-(-orions-e-meteoritos-)",
+    "image": "./boosters/booster.png",
+    "originalPrice": 32.00,
+    "price": 9.60,
+    "discount": 70,
+    "isNew": true,
+    "description": "<p><span style=\"color: #0041dd;\"><strong>INFORMAÇÕES:</strong></span><br>Receba 1.5x mais orions e meteoritos ao farmar por 30 minutos.</p>"
+  }
+]

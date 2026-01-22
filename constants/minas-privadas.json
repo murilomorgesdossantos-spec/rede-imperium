@@ -1,0 +1,35 @@
+[
+  {
+    "id": 318615,
+    "name": "Mina De Ouro ( Privada )",
+    "slug": "(novo)-mina-de-ouro-(-privada-)",
+    "image": "./minas-privadas/9eeca47c-6f50-461a-80a2-508787dd6248.png",
+    "originalPrice": 230.00,
+    "price": 69.00,
+    "discount": 70,
+    "isNew": true,
+    "description": "<p><span style=\"color: #0041dd;\"><strong>INFORMAÇÕES:</strong></span><br>Tenha uma mineração privada em seu terreno fornecendo ganhos significativos e raros em sua jornada no rankup atual.</p>"
+  },
+  {
+    "id": 183320,
+    "name": "Mina De Ferro ( Privada )",
+    "slug": "mina-privada-ferro",
+    "image": "./minas-privadas/6e935520-4d33-48da-87f3-ac3b9c11120b.png",
+    "originalPrice": 160.00,
+    "price": 48.00,
+    "discount": 70,
+    "isNew": true,
+    "description": "<p><span style=\"color: #0041dd;\"><strong>INFORMAÇÕES:</strong></span><br>Tenha uma mineração privada em seu terreno fornecendo ganhos significativos e raros em sua jornada no rankup atual.</p>"
+  },
+  {
+    "id": 318613,
+    "name": "Mina De Carvão ( Privada )",
+    "slug": "mina-privada-carvao",
+    "image": "./minas-privadas/cff6a610-6ddd-46f3-aa39-41ae5ac4b07c.png",
+    "originalPrice": 70.00,
+    "price": 21.00,
+    "discount": 70,
+    "isNew": true,
+    "description": "<p><span style=\"color: #0041dd;\"><strong>INFORMAÇÕES:</strong></span><br>Tenha uma mineração privada em seu terreno fornecendo ganhos significativos e raros em sua jornada no rankup atual.</p>"
+  }
+]

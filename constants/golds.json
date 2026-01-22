@@ -1,0 +1,57 @@
+[
+  {
+    "id": 182629,
+    "name": "1M de Gold ( + 100K Brinde )",
+    "slug": "1m-de-gold",
+    "image": "./golds/1d3196fb-e031-4ffc-86dd-4f30b9d4eaae.png",
+    "originalPrice": 1820.00,
+    "price": 546.00,
+    "discount": 70,
+    "isNew": true,
+    "description": "<p><strong><span style=\"color: #e39708;\">BENEFÍCIOS:</span></strong></p><p style=\"text-align: start;\"><strong><span style=\"color: #4a4a4a;\">•</span></strong><span style=\"color: #ffffff;\">&nbsp;</span>Você irá receber a quantia de&nbsp;<strong><span style=\"color: #fce803;\">1M de Gold&nbsp;</span></strong>para usar em nosso servidor.<br><br><strong><span style=\"color: #e39708;\">UTILIZAÇÃO:</span></strong><br><strong><span style=\"color: #4a4a4a;\">•</span></strong><span style=\"color: #ffffff;\">&nbsp;</span>Acesse a loja dentro do servidor utilizando o comando \"<span style=\"color: #fce803;\">/gold</span>\".</p><hr><p style=\"text-align: center;\"><strong><span style=\"color: #e39708;\">OBSERVAÇÃO</span></strong></p><p style=\"text-align: center;\">Esta é uma moeda sazonal, que será resetada ao término de cada temporada. Serão devolvidos exclusivamente se adquiridos até 48 horas antes do final da temporada ou caso o servidor sofra algum tipo de reset sem aviso prévio em nosso Discord.</p>"
+  },
+  {
+    "id": 182636,
+    "name": "100K de Gold ( + 20K Brinde )",
+    "slug": "100k-de-gold",
+    "image": "./golds/df2f29b6-e4ef-4202-8124-7b641f21ccc4.png",
+    "originalPrice": 220.00,
+    "price": 66.00,
+    "discount": 70,
+    "isNew": false,
+    "description": "<p><strong><span style=\"color: #e39708;\">BENEFÍCIOS:</span></strong></p><p style=\"text-align: start;\"><strong><span style=\"color: #4a4a4a;\">•</span></strong><span style=\"color: #ffffff;\">&nbsp;</span>Você irá receber a quantia de&nbsp;<strong><span style=\"color: #fce803;\">100K de Gold&nbsp;</span></strong>para usar em nosso servidor.<br><br><strong><span style=\"color: #e39708;\">UTILIZAÇÃO:</span></strong><br><strong><span style=\"color: #4a4a4a;\">•</span></strong><span style=\"color: #ffffff;\">&nbsp;</span>Acesse a loja dentro do servidor utilizando o comando \"<span style=\"color: #fce803;\">/gold</span>\".</p><hr><p style=\"text-align: center;\"><strong><span style=\"color: #e39708;\">OBSERVAÇÃO</span></strong></p><p style=\"text-align: center;\">Esta é uma moeda sazonal, que será resetada ao término de cada temporada. Serão devolvidos exclusivamente se adquiridos até 48 horas antes do final da temporada ou caso o servidor sofra algum tipo de reset sem aviso prévio em nosso Discord.</p>"
+  },
+  {
+    "id": 182638,
+    "name": "50K de Gold ( + 15K Brinde )",
+    "slug": "50k-de-gold",
+    "image": "./golds/7e1819f8-404a-4e23-8253-e523482e9b42.png",
+    "originalPrice": 115.00,
+    "price": 34.50,
+    "discount": 70,
+    "isNew": false,
+    "description": "<p><strong><span style=\"color: #e39708;\">BENEFÍCIOS:</span></strong></p><p style=\"text-align: start;\"><strong><span style=\"color: #4a4a4a;\">•</span></strong><span style=\"color: #ffffff;\">&nbsp;</span>Você irá receber a quantia de&nbsp;<strong><span style=\"color: #fce803;\">50K de Gold&nbsp;</span></strong>para usar em nosso servidor.<br><br><strong><span style=\"color: #e39708;\">UTILIZAÇÃO:</span></strong><br><strong><span style=\"color: #4a4a4a;\">•</span></strong><span style=\"color: #ffffff;\">&nbsp;</span>Acesse a loja dentro do servidor utilizando o comando \"<span style=\"color: #fce803;\">/gold</span>\".</p><hr><p style=\"text-align: center;\"><strong><span style=\"color: #e39708;\">OBSERVAÇÃO</span></strong></p><p style=\"text-align: center;\">Esta é uma moeda sazonal, que será resetada ao término de cada temporada. Serão devolvidos exclusivamente se adquiridos até 48 horas antes do final da temporada ou caso o servidor sofra algum tipo de reset sem aviso prévio em nosso Discord.</p>"
+  },
+  {
+    "id": 182639,
+    "name": "25K de Gold",
+    "slug": "25k-de-gold",
+    "image": "./golds/7530867f-32a4-49e9-9099-c7df7983ec9a.png",
+    "originalPrice": 60.00,
+    "price": 18.00,
+    "discount": 70,
+    "isNew": false,
+    "description": "<p><strong><span style=\"color: #e39708;\">BENEFÍCIOS:</span></strong></p><p style=\"text-align: start;\"><strong><span style=\"color: #4a4a4a;\">•</span></strong><span style=\"color: #ffffff;\">&nbsp;</span>Você irá receber a quantia de&nbsp;<strong><span style=\"color: #fce803;\">25K de Gold&nbsp;</span></strong>para usar em nosso servidor.<br><br><strong><span style=\"color: #e39708;\">UTILIZAÇÃO:</span></strong><br><strong><span style=\"color: #4a4a4a;\">•</span></strong><span style=\"color: #ffffff;\">&nbsp;</span>Acesse a loja dentro do servidor utilizando o comando \"<span style=\"color: #fce803;\">/gold</span>\".</p><hr><p style=\"text-align: center;\"><strong><span style=\"color: #e39708;\">OBSERVAÇÃO</span></strong></p><p style=\"text-align: center;\">Esta é uma moeda sazonal, que será resetada ao término de cada temporada. Serão devolvidos exclusivamente se adquiridos até 48 horas antes do final da temporada ou caso o servidor sofra algum tipo de reset sem aviso prévio em nosso Discord.</p>"
+  },
+  {
+    "id": 182640,
+    "name": "10K de Gold",
+    "slug": "10k-de-gold",
+    "image": "./golds/115f694c-ddbf-43f9-a525-3413e704ca6a.png",
+    "originalPrice": 25.00,
+    "price": 7.50,
+    "discount": 70,
+    "isNew": false,
+    "description": "<p><strong><span style=\"color: #e39708;\">BENEFÍCIOS:</span></strong></p><p style=\"text-align: start;\"><strong><span style=\"color: #4a4a4a;\">•</span></strong><span style=\"color: #ffffff;\">&nbsp;</span>Você irá receber a quantia de&nbsp;<strong><span style=\"color: #fce803;\">10K de Gold&nbsp;</span></strong>para usar em nosso servidor.<br><br><strong><span style=\"color: #e39708;\">UTILIZAÇÃO:</span></strong><br><strong><span style=\"color: #4a4a4a;\">•</span></strong><span style=\"color: #ffffff;\">&nbsp;</span>Acesse a loja dentro do servidor utilizando o comando \"<span style=\"color: #fce803;\">/gold</span>\".</p><hr><p style=\"text-align: center;\"><strong><span style=\"color: #e39708;\">OBSERVAÇÃO</span></strong></p><p style=\"text-align: center;\">Esta é uma moeda sazonal, que será resetada ao término de cada temporada. Serão devolvidos exclusivamente se adquiridos até 48 horas antes do final da temporada ou caso o servidor sofra algum tipo de reset sem aviso prévio em nosso Discord.</p>"
+  }
+]

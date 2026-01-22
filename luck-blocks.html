@@ -1,5 +1,4 @@
 <!DOCTYPE html>
-<!-- saved from url=(0046)https://rede-imperium.com/category/luck-blocks -->
 <html lang="pt-BR"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -46,6 +45,7 @@
         <canvas data-generated="false" style="width: 100% !important; height: 100% !important; position: fixed !important; top: 0px !important; left: 0px !important; pointer-events: none;" aria-hidden="true" width="1907" height="1072"></canvas>
     </div>
 </div>
+
 <div id="package-modal-container" class="modal fade">
     <div class="modal-dialog modal-dialog-centered">
         <div class="modal-content">
@@ -135,7 +135,6 @@
 
 
   
-<!-- Main content -->
 <div id="store" class="cc__index___grid container">
     <div class="cc__index___sidebar">
         <div class="cc__index___sidebar__navigation">
@@ -272,7 +271,7 @@
               </p>
     </div>
 
-    <button onclick="showPackage(`passe`)">
+    <button onclick="window.location.href='vips.html'">
       <strong>ADQUIRIR</strong>
     </button>
   </div>
@@ -332,82 +331,15 @@
       <h1>Luck Blocks</h1>
     </div>
 
-          <div class="cc__category___products_grid">
-                  <div class="cc__product___wrapper">
-  
-      <span class="new">NOVIDADE</span>
-  
-      <img src="./luck-blocks/75a1dd9f-e46b-4e61-92a6-2cc167b3b138.png" width="165">
-  
-  <div class="cc__product___info">
-    <h1 title="LuckBlock Skin Plantações">LuckBlock Skin Plantações</h1>
-
-          <p class="package-price">
-        <span class="double-price">R$ 50,00</span>
-      </p>
-    
-    <div class="price-container">
-      <p class="package-price">
-        <span class="original-price">R$ 15,00</span>
-                  <span class="discount-percentage">-70%</span>
-              </p>
-    </div>
-
-    <div class="cc__product___action">
-                      
-        <button type="button" id="353046" data-func="add-to-cart" data-slug="(novo)-luckblock-skin-fazenda" class="btn-primary">
-          <i class="me-2 fa-solid fa-basket-shopping"></i>
-          Adquirir        </button>
-      
-      <button class="btn-secondary" onclick="showPackage(`(novo)-luckblock-skin-fazenda`)">
-        <i class="fa-regular fa-circle-question" style="font-size: 18px;"></i>
-      </button>
-    </div>
-  </div>
-</div>
-                  <div class="cc__product___wrapper">
-  
-      <span class="new">NOVIDADE</span>
-  
-      <img src="./luck-blocks/6f7f20d9-533f-459d-bb2b-3327b1d89858.png" width="165">
-  
-  <div class="cc__product___info">
-    <h1 title="LuckBlock Skin Mineração">LuckBlock Skin Mineração</h1>
-
-          <p class="package-price">
-        <span class="double-price">R$ 50,00</span>
-      </p>
-    
-    <div class="price-container">
-      <p class="package-price">
-        <span class="original-price">R$ 15,00</span>
-                  <span class="discount-percentage">-70%</span>
-              </p>
-    </div>
-
-    <div class="cc__product___action">
-                      
-        <button type="button" id="318687" data-func="add-to-cart" data-slug="(novo)-luckblock-skin" class="btn-primary">
-          <i class="me-2 fa-solid fa-basket-shopping"></i>
-          Adquirir        </button>
-      
-      <button class="btn-secondary" onclick="showPackage(`(novo)-luckblock-skin`)">
-        <i class="fa-regular fa-circle-question" style="font-size: 18px;"></i>
-      </button>
-    </div>
-  </div>
-</div>
+          <div class="cc__category___products_grid" id="lista-luck-blocks">
               </div>
 
-            </div>
+</div>
 </div>
         </div>
     </div>
     <div class="toast-container" id="toast-container"></div>
 </div>
-<!-- Main content -->
-
-<!-- Footer -->
 <style>
    footer{margin-top:auto}footer .cc__footer___wrapper{margin-top:20px;justify-content:center}.cc__footer___wrapper{padding:0 24px;max-width:1200px;margin:0 auto;display:flex;justify-content:center;gap:20px}.cc__footer___left_element{display:flex;align-items:center;gap:20px}.cc__footer___left_element img{width:70px;height:auto}.cc__footer___left_element p{margin:0;font-size:.9rem;color:#a09fb2;line-height:1.5}.cc__footer___left_element p b{color:#f0e6ff}@media (max-width:768px){.cc__footer___wrapper{justify-content:center}.cc__footer___left_element{flex-direction:column;text-align:center;gap:15px}}
 </style>
@@ -424,9 +356,7 @@
          </div>
       </div>
    </div>
-</footer><!-- Footer -->
-
-      <script>
+</footer><script>
       const allowedParams = [
         'utm_source', 'utm_medium', 'utm_campaign', 'utm_term', 'utm_content',
         'gclid', 'fbclid', 'msclkid',
@@ -466,4 +396,8 @@
 <script type="text/javascript" src="./luck-blocks/toastify.js"></script>
 <script src="./luck-blocks/tsparticles.bundle.min.js"></script>
 <script src="./luck-blocks/jquery"></script>
-</body></html>
+
+<script src="js/carregarLuckBlocks.js"></script>
+
+</body>
+</html>

@@ -1,5 +1,4 @@
 <!DOCTYPE html>
-<!-- saved from url=(0045)https://rede-imperium.com/category/revogacoes -->
 <html lang="pt-BR"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -46,6 +45,7 @@
         <canvas data-generated="false" style="width: 100% !important; height: 100% !important; position: fixed !important; top: 0px !important; left: 0px !important; pointer-events: none;" aria-hidden="true" width="1907" height="1072"></canvas>
     </div>
 </div>
+
 <div id="package-modal-container" class="modal fade">
     <div class="modal-dialog modal-dialog-centered">
         <div class="modal-content">
@@ -135,7 +135,6 @@
 
 
   
-<!-- Main content -->
 <div id="store" class="cc__index___grid container">
     <div class="cc__index___sidebar">
         <div class="cc__index___sidebar__navigation">
@@ -272,7 +271,7 @@
               </p>
     </div>
 
-    <button onclick="showPackage(`passe`)">
+    <button onclick="window.location.href='vips.html'">
       <strong>ADQUIRIR</strong>
     </button>
   </div>
@@ -332,72 +331,15 @@
       <h1>Revogações</h1>
     </div>
 
-          <div class="cc__category___products_grid">
-                  <div class="cc__product___wrapper">
-  
-  
-      <img src="./revogacoes/4548103d-4f93-4344-9e26-18ae2d786c03.png" width="165">
-  
-  <div class="cc__product___info">
-    <h1 title="UNBAN">UNBAN</h1>
-
-    
-    <div class="price-container">
-      <p class="package-price">
-        <span class="original-price">R$ 35,00</span>
-              </p>
-    </div>
-
-    <div class="cc__product___action">
-                      
-        <button type="button" id="182641" data-func="add-to-cart" data-slug="unban" class="btn-primary">
-          <i class="me-2 fa-solid fa-basket-shopping"></i>
-          Adquirir        </button>
-      
-      <button class="btn-secondary" onclick="showPackage(`unban`)">
-        <i class="fa-regular fa-circle-question" style="font-size: 18px;"></i>
-      </button>
-    </div>
-  </div>
-</div>
-                  <div class="cc__product___wrapper">
-  
-  
-      <img src="./revogacoes/dbdca628-65ef-4ce2-a336-8e1704c3fab2.png" width="165">
-  
-  <div class="cc__product___info">
-    <h1 title="UNMUTE">UNMUTE</h1>
-
-    
-    <div class="price-container">
-      <p class="package-price">
-        <span class="original-price">R$ 20,00</span>
-              </p>
-    </div>
-
-    <div class="cc__product___action">
-                      
-        <button type="button" id="182643" data-func="add-to-cart" data-slug="unmute" class="btn-primary">
-          <i class="me-2 fa-solid fa-basket-shopping"></i>
-          Adquirir        </button>
-      
-      <button class="btn-secondary" onclick="showPackage(`unmute`)">
-        <i class="fa-regular fa-circle-question" style="font-size: 18px;"></i>
-      </button>
-    </div>
-  </div>
-</div>
+          <div class="cc__category___products_grid" id="lista-revogacoes">
               </div>
 
-            </div>
+</div>
 </div>
         </div>
     </div>
     <div class="toast-container" id="toast-container"></div>
 </div>
-<!-- Main content -->
-
-<!-- Footer -->
 <style>
    footer{margin-top:auto}footer .cc__footer___wrapper{margin-top:20px;justify-content:center}.cc__footer___wrapper{padding:0 24px;max-width:1200px;margin:0 auto;display:flex;justify-content:center;gap:20px}.cc__footer___left_element{display:flex;align-items:center;gap:20px}.cc__footer___left_element img{width:70px;height:auto}.cc__footer___left_element p{margin:0;font-size:.9rem;color:#a09fb2;line-height:1.5}.cc__footer___left_element p b{color:#f0e6ff}@media (max-width:768px){.cc__footer___wrapper{justify-content:center}.cc__footer___left_element{flex-direction:column;text-align:center;gap:15px}}
 </style>
@@ -414,9 +356,7 @@
          </div>
       </div>
    </div>
-</footer><!-- Footer -->
-
-      <script>
+</footer><script>
       const allowedParams = [
         'utm_source', 'utm_medium', 'utm_campaign', 'utm_term', 'utm_content',
         'gclid', 'fbclid', 'msclkid',
@@ -456,4 +396,8 @@
 <script type="text/javascript" src="./revogacoes/toastify.js"></script>
 <script src="./revogacoes/tsparticles.bundle.min.js"></script>
 <script src="./revogacoes/jquery"></script>
-</body></html>
+
+<script src="js/carregarRevogacoes.js"></script>
+
+</body>
+</html>
